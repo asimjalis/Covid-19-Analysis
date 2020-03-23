@@ -1,7 +1,5 @@
-# US States Covid-19 Analysis
+# Analyze COVID-19 Analysis
 
-We analyze the US states data for COVID-19 infection rates and observe
-that there is a negative correlation between number of clear days and
-infection rates.
+Analyze JHU COVID-19 data.
 
 See Jupyter notebook for details.
